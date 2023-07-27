@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/dacardo4/scraper/issues"
   },
-  "homepage": "https://github.com/dacardo4/scraper#readme"
+  "homepage": "https://github.com/dacardo4/scraper#readme",
+  "dependencies": {
+    "puppeteer": "^20.9.0"
+  }
 }
